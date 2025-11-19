@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 // biblioteka aby użyć funkcji potęgowania - pow() (opcjonalnie)
-#include <math.h> 
 
 double calculateBMI(double weight, double height) {
     // oblicz BMI i zwróć wartość
