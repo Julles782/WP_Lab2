@@ -9,6 +9,7 @@ double calculateBMI(double weight, double height) {
     // parametry weight I height (double - typ)
     // return weight / pov height)
     return weight / (height/100 * height/100);
+
     // wszystkie funkcje lepiej dawac przed mainem
     // return - zwraca wartosc
 }
